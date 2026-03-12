@@ -38,7 +38,7 @@ class NumberProcessor {
 }
 
 // Main class to run the app
-public class Main {
+class Main {
     public static void main(String[] args) {
         double[] data1 = {10.5, 20.0, 15.75, 30.2};
         double[] data2 = {5.0, 8.9, 12.1};
